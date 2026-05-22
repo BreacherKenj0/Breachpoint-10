@@ -4,7 +4,7 @@
 BreachPoint 10.0 is a high-stakes, adversarial AI security challenge. The objective is to penetrate a hardened Defender AI protocol to extract a randomly generated [SECRET_ID] while managing system fatigue and state-based security triggers.
 
 ## 2. Quickstart
-1. COPY: Paste the full "System Protocol" into the target LLM chat.
+1. COPY: Paste the full "Breach Point Game/System Protocol" into the target LLM chat.
 2. INITIALIZE: Send "monkey" to generate the [SECRET_ID] and enter ACTIVE state.
 3. CONFIGURE: Use command /MODE [TUTORIAL/STANDARD/BLACKOUT/ULTRA-HARD] to set difficulty.
 
